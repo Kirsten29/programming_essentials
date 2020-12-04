@@ -51,3 +51,9 @@ print(a, b, c, d, e, f)
 
 Check
 0 5 -5 1 1 16
+
+& (ampersand) - bitwise conjunction;
+| (bar) - bitwise disjunction;
+~ (tilde) - bitwise negation;
+^ (caret) - bitwise exclusive or (xor).
+
