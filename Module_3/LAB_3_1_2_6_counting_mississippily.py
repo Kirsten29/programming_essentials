@@ -1,5 +1,7 @@
 LAB_3_1_2_6
-Your task is very simple here: write a program that uses a for loop to "count mississippily" to five. Having counted to five, the program should print to the screen the final message "Ready or not, here I come!"
+Your task is very simple here: write a program that uses a for loop to "count mississippily" to five. 
+Having counted to five, the program should print to the screen the final message 
+"Ready or not, here I come!"
 
 Use the skeleton we've provided in the editor.
 
