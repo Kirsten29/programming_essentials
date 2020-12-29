@@ -42,9 +42,8 @@ print("Step 1:", beatles)
 # step 2
 beatles.append("John Lennon")
 beatles.append("Paul McCartney")
-beatles.append("George Harrison") # step 2 -> beatles.append("John Lennon, Paul McCartney, 
-#George Harrison")is korter en werkt maar telt 'niet goed door'want telt dan  maar 1 
-#en komt niet uit op Fab 4
+beatles.append("George Harrison") #beatles.append("John Lennon, Paul McCartney, 
+#George Harrison")is korter, werkt maar  telt dan  maar 1 regel en komt niet uit op Fab 4
 print("Step 2:", beatles)
 # step 3
 for member in range(2):
