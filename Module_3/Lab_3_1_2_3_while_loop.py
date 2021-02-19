@@ -46,4 +46,4 @@ number = int(input("Enter a number: "))
 while number != secret_number:
     print("Ha ha! You're stuck in my loop!")
     number = int(input("Enter a number again: "))
-print("Yes", secret_number, "is the secret number. " "Well done, muggle! You are free now.")
+print("Yes", secret_number, "is the secret number. Well done, muggle! You are free now.")

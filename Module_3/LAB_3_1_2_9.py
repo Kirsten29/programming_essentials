@@ -9,7 +9,7 @@
 "and the break statement."
         
 while True:
-     secret = input("Enter a secret: ")
-     if secret == "chupacabra":
+     word = input("Enter a word: ")
+     if word == "chupacabra":
           break
 print("You've succesfully left the loop.")
